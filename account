@@ -1,0 +1,4 @@
+输入你的信息，browser_id、 token获取方式见README
+格式：email----password----browser_id----proxy----token
+example:
+ilshAuto@gmail.com----IAM_PASSWORD----0asxq123-xxxx-xxxx-xxxx-xxxxxx----socks5://172.1.1.1:100----eyxxxxxx
