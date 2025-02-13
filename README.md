@@ -29,7 +29,8 @@
 ### 快速开始
 
 #### 节点运行
-tip：需提前获取token、browser_id，我会提供一种我的登录方式在我的TG频道：（https://t.me/ilsh_auto）
+browser_id、token获取：
+![img.png](img.png)
 
 克隆仓库
 ```
@@ -53,8 +54,9 @@ user1@domain.com----password123----chrome_12345----socks5://127.0.0.1:1080----ey
 python gaea_run.py
 ````
 
-browser_id、token获取：
-![img.png](img.png)
+
+
+tip：需提前获取token、browser_id，我会提供一种我的登录方式在我的TG频道：（https://t.me/ilsh_auto）
 
 ---
 
