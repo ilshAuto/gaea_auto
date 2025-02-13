@@ -29,7 +29,7 @@
 ### 快速开始
 
 #### 节点运行
-browser_id、token获取：
+browser_id、token获取(手动版本)：
 ![img.png](img.png)
 
 克隆仓库
@@ -54,10 +54,13 @@ user1@domain.com----password123----chrome_12345----socks5://127.0.0.1:1080----ey
 python gaea_run.py
 ````
 
+#### 登录部分 核心：dp+cv过cloudflare 不需要captcha工具
+这一部分需要代码基础，如果安装失败请使用deepseek\chatgpt\claude询问
 
-
-tip：需提前获取token、browser_id，我会提供一种我的登录方式在我的TG频道：（https://t.me/ilsh_auto）
-
+1. 安装drissionpage
+2. 安装opencv
+3. 执行登录后，成功的账号会写入到login文件夹下的account
+4. 复制login/account到节点部分中的account，运行即可
 ---
 
 ## 配置文件说明

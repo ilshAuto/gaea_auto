@@ -1,0 +1,4 @@
+格式：
+email----password----proxy
+example:
+ilshAuto@gmail.com----IAM_PASSWORD----socks5://112.1.1.1:100
