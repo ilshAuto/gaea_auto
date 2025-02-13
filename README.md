@@ -61,6 +61,11 @@ python gaea_run.py
 2. 安装opencv
 3. 执行登录后，成功的账号会写入到login文件夹下的account
 4. 复制login/account到节点部分中的account，运行即可
+
+````
+pip install DrissionPage
+pip install opencv-python-headless==4.9.0.80
+````
 ---
 
 ## 配置文件说明
